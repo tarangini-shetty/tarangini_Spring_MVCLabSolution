@@ -13,6 +13,7 @@
 <title>Student Registration form</title>
 </head>
 <body>
+<div class="container">
 <h3> Student Form for ${mode}</h3>
 
             <form action="save" method="POST">
@@ -24,7 +25,7 @@
                 <button type="submit" class="btn btn-info col-2">Save</button>
             </form>
             <a href="list" class="btn btn-primary btn-sm mb-3">Back to Students List</a>
-<div class="container">
+
 </div>
 </body>
 

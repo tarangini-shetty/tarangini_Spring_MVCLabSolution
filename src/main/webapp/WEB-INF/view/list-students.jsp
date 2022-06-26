@@ -15,6 +15,7 @@
 <title>Student Directory</title>
 </head>
 <body>
+<div class="container">
 <h3>Students Directory</h3>
 <a href="showFormForAdd" class="btn btn-primary btn-sm mb-3">Add Student</a>
 <table class="table table-bordered table-striped">
@@ -40,7 +41,6 @@
           </c:forEach>
         </tbody>
     </table>
-<div class="container">
 </div>
 </body>
 </html>

@@ -13,9 +13,9 @@
 <title>Welcome to Student Management</title>
 </head>
 <body>
+<div class="container">
 <h3>Student Registrations</h3>
 <a href="student/list" class="btn btn-primary btn-sm mb-3">Student Registration System</a> 
-<div class="container">
 </div>
 </body>
 </html>
